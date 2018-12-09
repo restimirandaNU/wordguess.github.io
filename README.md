@@ -10,6 +10,17 @@ The challenge was to create a similar hangman game. I decided to go with what is
 
 Screen shot
 
+![wordguessimage](https://user-images.githubusercontent.com/43328718/49694399-059d8e80-fb4f-11e8-98c4-bc28750cc80e.PNG)
+
+
+Technology used
+Javascript
+HTML/CSS
+
+Author
+Resti Miranda - HMTL/CSS
+
+
 
 
 
